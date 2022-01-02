@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(255, 255, 255);
+}
+
+.container {
+  width: 50%;
+  margin: 0 auto;
+  padding: 3em;
+}
+
+h1 {
+  font-family: "helvetica neue", Arial, Helvetica, sans-serif;
+  color: rgb(7, 94, 7);
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(0, 113, 0);
+}
+
+p {
+  font-family: "roboto";
+  line-height: 2em;
+  font-weight: 300;
+}
+
+.link {
+  font-weight: 400;
+  margin-bottom: 3em;
+}
